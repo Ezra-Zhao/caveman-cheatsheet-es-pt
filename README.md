@@ -1,5 +1,7 @@
 # Caveman 速查表 | Caveman Cheatsheet | Guía rápida de Caveman
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Caveman 4.0：让编程 agent 少说话、少读、少跑冤枉路的省 token 工具——回答改成极简电报体，代码、命令、报错逐字不动；4.0 起长成六件套，再加一个独立的终端 agent Caveman Code。本页的命门是「诚实数字卡」：它在什么场合省钱、什么场合倒亏，先看完再装。
 
 - 上游项目：[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)（2026-11-14 实测 119,888 ★ / 6,993 forks，56 个 release，Apache-2.0；官网 caveman.so）
